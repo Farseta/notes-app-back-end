@@ -2,3 +2,6 @@ node_modules
 notes-api-webserver.pem
 notes-api-test.postman_collection.json
 notes-api-test.postman_environment.json
+notes-api-test2.postman_collection.json
+notes-api-test2.postman_environment.json
+notes-api-test3.postman_collection.json
